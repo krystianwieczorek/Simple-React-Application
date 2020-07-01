@@ -1,1 +1,1 @@
-import "bootstrap/dist/css/bootstrap.min.js";
+import "bootstrap/dist/css/bootstrap.min.css";
