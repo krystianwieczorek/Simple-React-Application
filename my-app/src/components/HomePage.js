@@ -2,9 +2,9 @@ import React from "react";
 
 function HomePage() {
   return (
-    <div className="jumbotron" style={{ textAlign: "center" }}>
+    <div className="jumbotron">
       <h1>Pluralsight Administration</h1>
-      <p>React, Flux and React Router for responsive web-app</p>
+      <p>React, Flux, and React Router for ultra-responsive web apps.</p>
       <a href="/about">About</a>
     </div>
   );
