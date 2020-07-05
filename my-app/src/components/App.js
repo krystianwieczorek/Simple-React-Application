@@ -5,6 +5,7 @@ import CoursesPage from "./CoursesPage";
 import AboutPage from "./AboutPage";
 import NotFoundPage from "./NotFoundPage";
 import { Route, Switch, Redirect } from "react-router-dom";
+import ManageCoursePage from './ManageCoursePage'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Switch>
         <Route path='/' exact component={HomePage} />
         <Route path='/courses' component={CoursesPage} />
+        <Route path='/course/:slug' component={ManageCoursePage} />
         <Route path='/about' component={AboutPage} />
         <Redirect from='/Home' to='/' />
         <Route component={NotFoundPage} />
