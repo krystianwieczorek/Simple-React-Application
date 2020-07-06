@@ -72,51 +72,51 @@
     },
     {
       "id": 11,
-      "slug": "fdsfs",
-      "title": "fdsfs",
-      "authorId": 2,
-      "category": "sdfdsf",
-      "createdAt": 1593971783463
+      "slug": "securing-react-apps-with-auth0",
+      "title": "Securing React Apps with Auth0",
+      "authorId": 1,
+      "category": "sfsdf",
+      "createdAt": 1593978250310
     },
     {
       "id": 12,
-      "slug": "sdfsdf",
-      "title": "sdfsdf",
+      "slug": "sdh-ldmfh-ldfh",
+      "title": "sdh;ldmfh;ldfh",
       "authorId": 1,
-      "category": "sdfdsf",
-      "createdAt": 1593971804360
+      "category": "dfhdfh",
+      "createdAt": 1593978260858
     },
     {
       "id": 13,
-      "slug": "sdfsdf",
-      "title": "sdfsdf",
-      "authorId": 2,
-      "category": "sdfsdfsd",
-      "createdAt": 1593971815930
+      "slug": "asdasdasd",
+      "title": "asdasdasd",
+      "authorId": 1,
+      "category": "sdgsdgsd",
+      "createdAt": 1593978275708
     },
     {
       "id": 14,
-      "slug": "dfssd",
-      "title": "dfssd",
-      "authorId": 1,
-      "category": "dsfdsf",
-      "createdAt": 1593971887237
+      "slug": "dgdfhdf",
+      "title": "dgdfhdf",
+      "authorId": 2,
+      "category": "dfhdfhdffh",
+      "createdAt": 1593978283672
     },
     {
       "id": 15,
-      "slug": "sdfsdf",
-      "title": "sdfsdf",
+      "slug": "new-one",
+      "title": "new one ",
       "authorId": 1,
-      "category": "sdfsdfsd",
-      "createdAt": 1593971947605
+      "category": "new one",
+      "createdAt": 1593978334760
     },
     {
       "id": 16,
-      "slug": "fdsf",
-      "title": "fdsf",
-      "authorId": 1,
-      "category": "dsfsdf",
-      "createdAt": 1593972171503
+      "slug": "new-two",
+      "title": "new two",
+      "authorId": 2,
+      "category": "new two",
+      "createdAt": 1593978343424
     }
   ],
   "authors": [
